@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f6fc;
+    color: #2c3e50;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #3b3f5c;
+  }
+  
+  .slider-toggle {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  
+  .slider-toggle button {
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    background-color: #d6dbf5;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #2c3e50;
+  }
+  
+  .slider-toggle .active {
+    background-color: #5c6bc0;
+    color: white;
+  }
+  
+  .dropdown {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .strategy-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .card {
+    border: 1px solid #b0bec5;
+    padding: 15px;
+    width: 220px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
+    background-color: #e3f2fd;
+    color: #2c3e50;
+  }
+  
+  .empty-state {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #78909c;
+    margin-top: 20px;
+  }
+  
