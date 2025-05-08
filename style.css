@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
-    background-color: #f4f6fc;
-    color: #2c3e50;
+    background-color: #ecb9dd;
+    color: #051e05;
   }
   
   h1 {
     text-align: center;
-    color: #3b3f5c;
+    color: #b74465;
   }
   
   .slider-toggle {
@@ -22,15 +22,15 @@ body {
     padding: 10px 20px;
     cursor: pointer;
     border: none;
-    background-color: #d6dbf5;
+    background-color: #8d97c2;
     border-radius: 5px;
     font-weight: bold;
-    color: #2c3e50;
+    color: #20201a;
   }
   
   .slider-toggle .active {
     background-color: #5c6bc0;
-    color: white;
+    color: rgb(49, 35, 35);
   }
   
   .dropdown {
